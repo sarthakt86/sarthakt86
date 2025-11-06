@@ -1,6 +1,10 @@
 <h1 align="center"> Hello Techies 👋 </h1>
 
-<h3 align="center" style="color:blue;"> DevOps Engineer | Cloud Enthusiast | AWS & CI/CD Specialist </h3>
+<p align="center">
+  <marquee direction="left" scrollamount="6">
+    🚀 DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Automation Enthusiast 💻
+  </marquee>
+</p>
 
 ---
 
