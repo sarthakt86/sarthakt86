@@ -1,6 +1,8 @@
 <h1 align="center">Hello Techies 👋</h1>
 <p align="center">
-  <img src="./assets/Banner-style horizontal layout.gif" alt="DevOps Banner" width="100%" />
+  <video src="./assets/Banner-style horizontal layout.mp4" alt="DevOps Banner" width="100%" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 # Hey, I'm Sarthak 👋  
