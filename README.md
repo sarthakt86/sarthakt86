@@ -1,11 +1,9 @@
-<h1 align="center"> Hello Techies 👋 </h1>
-
 <p align="center">
-  <marquee direction="left" scrollamount="6">
-    🚀 DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Automation Enthusiast 💻
-  </marquee>
+  <img src="./assets/Banner-style horizontal layout.gif" alt="DevOps Banner" width="100%" />
 </p>
 
+<h1 align="center">Hello Techies 👋</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Automation Enthusiast 💻</h3>
 ---
 
 # Hey, I'm Sarthak 👋  
