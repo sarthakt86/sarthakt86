@@ -2,8 +2,6 @@
 <p align="center">
   <img src="./assets/Banner-style horizontal layout.gif" alt="DevOps Banner" width="100%" />
 </p>
-<h3 align="center">🚀 DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Automation Enthusiast 💻</h3>
----
 
 # Hey, I'm Sarthak 👋  
 **AWS | DevOps | Cloud Automation Engineer**
