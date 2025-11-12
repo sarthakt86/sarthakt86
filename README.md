@@ -1,8 +1,6 @@
 <h1 align="center">Hello Techies 👋</h1>
 <p align="center">
-  <video src="./assets/Banner-style horizontal layout.mp4" alt="DevOps Banner" width="100%" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img src="./assets/banner-horizontal-layout.gif" alt="DevOps Banner" width="100%" />
 </p>
 
 # Hey, I'm Sarthak 👋  
@@ -49,4 +47,3 @@ Built multi-region infra using CloudFormation and CodePipeline; automated deploy
 ---
 
 > “Automate Everything — Build Once, Deploy Anywhere 🚀”
-
