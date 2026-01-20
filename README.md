@@ -34,35 +34,39 @@ I enjoy building reliable CI/CD pipelines, containerized applications, and Infra
 ---
 ## 🚀 Featured Projects
 
-### ☸️ CI/CD Pipeline: GitHub → Jenkins → Kubernetes
-Designed and implemented an **end-to-end CI/CD pipeline** that automates code build, containerization, image push, and deployment to a Kubernetes cluster.
+### 🔧 LogicWorks – DevOps Project
+End-to-end DevOps implementation focusing on CI/CD automation and containerized application deployment.
 
-- Tools: Jenkins, Docker, Kubernetes, GitHub
-- Highlights: Automated deployments, reduced manual errors, faster release cycles
-
----
-
-### ☁️ AWS Multi-Region Cloud Infrastructure
-Architected and deployed a **high-availability, multi-region AWS infrastructure** using Infrastructure as Code principles.
-
-- Tools: AWS CloudFormation, ECS, CodePipeline
-- Highlights: Automated provisioning, fault tolerance, scalable architecture
+- Repo: https://github.com/sarthakt86/logicworks-devops-project
+- Tools: Docker, Jenkins, Kubernetes, Linux
+- Focus: CI/CD automation, container orchestration, deployment workflows
 
 ---
 
-### 🐳 Scalable Node.js Application (Containerized)
-Built and deployed a **containerized Node.js application** focusing on scalability and service isolation.
+### 🍎 AppleBite – PHP CI/CD Pipeline
+Automated CI/CD pipeline for a PHP-based application with consistent and repeatable deployments.
 
-- Tools: Docker, Docker Swarm, Linux
-- Highlights: Overlay networking, service discovery, horizontal scaling
+- Repo: https://github.com/sarthakt86/Applebite-php-ci-cd-pipeline
+- Tools: Jenkins, Docker, Ansible, PHP
+- Focus: Pipeline automation, configuration management, environment consistency
 
 ---
 
-### 🐘 Automated CI/CD for PHP Applications
-Implemented a **fully automated CI/CD workflow** for PHP-based applications across multiple environments.
+### 🧠 Forethought – Node.js Dockerized Application
+Containerized Node.js application designed for scalable and isolated service deployment.
 
-- Tools: Jenkins, Docker, Ansible
-- Highlights: Configuration management, repeatable deployments, environment consistency
+- Repo: https://github.com/sarthakt86/Forethought_NodeJS_Docker
+- Tools: Node.js, Docker, Linux
+- Focus: Containerization, scalability, service isolation
+
+---
+
+### ☸️ Abstergo – CI/CD & Kubernetes Demo
+Demo project showcasing CI/CD workflows and Kubernetes-based deployments.
+
+- Repo: https://github.com/sarthakt86/abstergo-demo
+- Tools: Jenkins, Docker, Kubernetes
+- Focus: Automated deployments, DevOps best practices
 
 ---
 ## 🛠️ Tech Stack
