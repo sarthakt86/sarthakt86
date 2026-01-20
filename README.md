@@ -6,16 +6,17 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-I'm a **Developer & DevOps Engineer** passionate about building **scalable, secure, and production-ready cloud infrastructure**.  
-I enjoy automating workflows, optimizing CI/CD pipelines, and working with modern cloud-native technologies.
+I'm a **DevOps Engineer and Cloud Enthusiast** focused on designing, automating, and scaling **secure, production-grade cloud infrastructure**.  
+I enjoy building reliable CI/CD pipelines, containerized applications, and Infrastructure as Code solutions that improve delivery speed and system stability.
+📌 I aim to bridge the gap between development and operations through automation and cloud-native best practices.
 
 - 🌱 **Currently Learning:** AWS CloudFormation & Terraform (IaC)
-- 🎯 **2026 Goal:** GenAI in DevOps (LLMOps) & Advanced Cloud Security
-- 💬 **Ask me about:** Docker, Kubernetes, AWS, CI/CD, Automation
-- ⚡ **Mindset:** Automate everything that can be automated
+- 🚀 **Focus Areas:** CI/CD Automation, Cloud Security, Kubernetes & Observability
+- 🎯 **2026 Goal:** Integrating GenAI (LLMOps) into DevOps workflows
+- 💬 **Ask me about:** Docker, Kubernetes, AWS, Jenkins, Terraform
+- ⚡ **Belief:** If it’s repeatable, it should be automated
 
 ---
 
