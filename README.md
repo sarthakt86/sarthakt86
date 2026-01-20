@@ -1,4 +1,8 @@
-# Hi there, I'm Sarthak! 👋 
+  # Hi there, I'm Sarthak! 👋 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sarthak%20Tyagi&fontSize=70&animation=fadeIn" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarthakt86&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakt86" />
@@ -16,22 +20,18 @@ Passionate Cloud & DevOps enthusiast focused on Automating Infrastructure and Sc
 
 #### ☸️ Abstergo Corp CI/CD Pipeline
 *Automated build → push → deploy pipeline from GitHub to Kubernetes.*
-- **Key Features:** End-to-end automation from source code to K8s orchestration.
 - **Stack:** `Jenkins`, `DockerHub`, `Kubernetes`, `Git`
 
 #### ☁️ AWS Multi-Region Infrastructure & CI/CD
 *Built multi-region infra and automated deployment on ECS.*
-- **Key Features:** Used CloudFormation for IaC and CodePipeline for seamless delivery.
 - **Stack:** `AWS`, `CloudFormation`, `ECS`, `ECR`, `CodePipeline`, `CodeDeploy`
 
 #### 🐳 Scalable Node.js App with Docker Swarm
 *Containerized Node.js app deployed on a Swarm cluster.*
-- **Key Features:** Implemented overlay networking and replica sets for high availability.
 - **Stack:** `Docker`, `Docker Swarm`, `AWS EC2`, `Node.js`
 
 #### 🐘 Automated CI/CD for Modular PHP App
 *Integrated Jenkins, Docker, and Ansible for multi-environment deployments.*
-- **Key Features:** Automated deployments across Dev, Staging, and Production.
 - **Stack:** `Jenkins`, `Ansible`, `Docker`, `PHP`
 
 ---
@@ -40,8 +40,8 @@ Passionate Cloud & DevOps enthusiast focused on Automating Infrastructure and Sc
 My roadmap for this year is focused on the intersection of Cloud and Intelligence:
 - [ ] **Mastering IaC:** Becoming proficient in **Terraform** for multi-cloud deployments.
 - [ ] **GenAI Implementation:** Integrating **Generative AI** models into DevOps workflows (LLMOps).
-- [ ] **Cloud Security:** Deepening knowledge in DevSecOps and cloud-native security protocols.
-- [ ] **New Tech Exploration:** Exploring advanced **Gen AI** tools and implementing them in real-world cloud projects.
+- [ ] **Cloud Security:** Deepening knowledge in DevSecOps.
+- [ ] **New Tech Exploration:** Exploring advanced **Gen AI** tools and implementing them.
 
 ---
 
@@ -60,5 +60,5 @@ My roadmap for this year is focused on the intersection of Cloud and Intelligenc
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthakt86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
