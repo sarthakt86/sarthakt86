@@ -1,49 +1,64 @@
-<h1 align="center">Hello Techies 👋</h1>
-<p align="center">
-  <img src="./assets/banner-horizontal-layout.gif" alt="DevOps Banner" width="100%" />
+# Hi there, I'm Sarthak! 👋 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sarthakt86&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakt86" />
 </p>
 
-# Hey, I'm Sarthak 👋  
-**AWS | DevOps | Cloud Automation Engineer**
+### 👨‍💻 About Me
+Passionate Cloud & DevOps enthusiast focused on Automating Infrastructure and Scaling Applications. Currently deep-diving into Infrastructure as Code (IaC) and Cloud-native architectures.
 
-Driven DevOps Engineer passionate about automating cloud infrastructure and streamlining CI/CD pipelines.  
-Currently working on containerized deployments using Docker, Jenkins, and Kubernetes.
-
-- 🔭 Working on: Abstergo Corp CI/CD Pipeline (Jenkins → DockerHub → Kubernetes)
-- 🧠 Learning: AWS CloudFormation & Terraform for IaC
-- ☁️ Cloud: AWS (EC2, ECS, ECR, S3, IAM, RDS, CloudWatch)
-- 💬 Ask me about: CI/CD | Docker | Kubernetes | Terraform | Jenkins
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sarthak-tiwary-4b7639237/) · [GitHub](https://github.com/sarthakt86) · sarthaktiwary01@gmail.com
+- 🌱 **Currently Learning:** AWS CloudFormation & Terraform for Infrastructure as Code (IaC).
+- 🏗 **Focusing on:** Building highly available and resilient systems on AWS.
 
 ---
 
-## ⚙️ Tech Stack
-**CI/CD:** Jenkins · GitHub Actions · Docker · DockerHub  
-**IaC:** Terraform · AWS CloudFormation  
-**Orchestration:** Kubernetes · Docker Swarm · ECS  
-**Cloud:** AWS (EC2, ECS, ECR, Lambda, S3, RDS)  
-**Languages:** Bash · Python · PHP · Node.js  
+### 🚀 Featured Projects
+
+#### ☸️ Abstergo Corp CI/CD Pipeline
+*Automated build → push → deploy pipeline from GitHub to Kubernetes.*
+- **Key Features:** End-to-end automation from source code to K8s orchestration.
+- **Stack:** `Jenkins`, `DockerHub`, `Kubernetes`, `Git`
+
+#### ☁️ AWS Multi-Region Infrastructure & CI/CD
+*Built multi-region infra and automated deployment on ECS.*
+- **Key Features:** Used CloudFormation for IaC and CodePipeline for seamless delivery.
+- **Stack:** `AWS`, `CloudFormation`, `ECS`, `ECR`, `CodePipeline`, `CodeDeploy`
+
+#### 🐳 Scalable Node.js App with Docker Swarm
+*Containerized Node.js app deployed on a Swarm cluster.*
+- **Key Features:** Implemented overlay networking and replica sets for high availability.
+- **Stack:** `Docker`, `Docker Swarm`, `AWS EC2`, `Node.js`
+
+#### 🐘 Automated CI/CD for Modular PHP App
+*Integrated Jenkins, Docker, and Ansible for multi-environment deployments.*
+- **Key Features:** Automated deployments across Dev, Staging, and Production.
+- **Stack:** `Jenkins`, `Ansible`, `Docker`, `PHP`
 
 ---
 
-## 🚀 Featured Projects
-
-### 🐳 Scalable Node.js App using Docker Swarm  
-Containerized Node.js app using Docker; deployed on Docker Swarm with overlay networking and replica sets.  
-**Stack:** Docker, Docker Swarm, AWS EC2  
-
-### 🐘 Automated CI/CD Pipeline for Modular PHP App  
-Integrated Jenkins + Docker + Ansible to automate deployments across dev, staging, and prod.  
-**Stack:** Jenkins, Ansible, Docker, PHP  
-
-### ☸️ Abstergo Corp CI/CD Pipeline (In Progress)  
-Automated build → push → deploy pipeline from GitHub to Kubernetes using Jenkins and DockerHub.  
-**Stack:** Jenkins, DockerHub, Kubernetes  
-
-### ☁️ AWS Multi-Region Infrastructure & CI/CD Automation  
-Built multi-region infra using CloudFormation and CodePipeline; automated deployment on ECS.  
-**Stack:** AWS, CloudFormation, ECS, ECR, CodePipeline, CodeDeploy  
+### 🎯 2026 Goals
+My roadmap for this year is focused on the intersection of Cloud and Intelligence:
+- [ ] **Mastering IaC:** Becoming proficient in **Terraform** for multi-cloud deployments.
+- [ ] **GenAI Implementation:** Integrating **Generative AI** models into DevOps workflows (LLMOps).
+- [ ] **Cloud Security:** Deepening knowledge in DevSecOps and cloud-native security protocols.
+- [ ] **New Tech Exploration:** Exploring advanced **Gen AI** tools and implementing them in real-world cloud projects.
 
 ---
 
-> “Automate Everything — Build Once, Deploy Anywhere 🚀”
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,kubernetes,terraform,ansible,linux,py,js,git,github,githubactions" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarthakt86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakt86&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
