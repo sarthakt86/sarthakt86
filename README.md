@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sarthak Tiwary</h1>
+<h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast ☁️🚀</h3>
+
 <p align="center">
   <img src="assets/banner-horizontal-layout.gif" width="100%" alt="Sarthak Tiwary | DevOps & Cloud" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Sarthak Tiwary</h1>
-<h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast ☁️🚀</h3>
 
 ---
 
