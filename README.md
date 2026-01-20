@@ -32,20 +32,37 @@ I enjoy building reliable CI/CD pipelines, containerized applications, and Infra
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-- ☸️ **CI/CD Pipeline (GitHub → Jenkins → Kubernetes)**  
-  Automated build, image push, and deployment using **Docker, Jenkins & K8s**
+### ☸️ CI/CD Pipeline: GitHub → Jenkins → Kubernetes
+Designed and implemented an **end-to-end CI/CD pipeline** that automates code build, containerization, image push, and deployment to a Kubernetes cluster.
 
-- ☁️ **AWS Multi-Region Infrastructure**  
-  Designed and deployed scalable infra using **CloudFormation, ECS & CodePipeline**
+- Tools: Jenkins, Docker, Kubernetes, GitHub
+- Highlights: Automated deployments, reduced manual errors, faster release cycles
 
-- 🐳 **Scalable Node.js Application**  
-  Containerized with Docker and deployed using **Docker Swarm & overlay networking**
+---
 
-- 🐘 **Automated CI/CD for PHP Applications**  
-  Jenkins + Docker + Ansible based deployment across multiple environments
+### ☁️ AWS Multi-Region Cloud Infrastructure
+Architected and deployed a **high-availability, multi-region AWS infrastructure** using Infrastructure as Code principles.
+
+- Tools: AWS CloudFormation, ECS, CodePipeline
+- Highlights: Automated provisioning, fault tolerance, scalable architecture
+
+---
+
+### 🐳 Scalable Node.js Application (Containerized)
+Built and deployed a **containerized Node.js application** focusing on scalability and service isolation.
+
+- Tools: Docker, Docker Swarm, Linux
+- Highlights: Overlay networking, service discovery, horizontal scaling
+
+---
+
+### 🐘 Automated CI/CD for PHP Applications
+Implemented a **fully automated CI/CD workflow** for PHP-based applications across multiple environments.
+
+- Tools: Jenkins, Docker, Ansible
+- Highlights: Configuration management, repeatable deployments, environment consistency
 
 ---
 ## 🛠️ Tech Stack
