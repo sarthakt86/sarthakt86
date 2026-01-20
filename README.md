@@ -47,13 +47,22 @@ I enjoy automating workflows, optimizing CI/CD pipelines, and working with moder
   Jenkins + Docker + Ansible based deployment across multiple environments
 
 ---
-
 ## 🛠️ Tech Stack
 
+### 🧑‍💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,linux,python,javascript,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css" />
 </p>
 
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+</p>
+
+### 🗄️ Databases & Monitoring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prometheus,grafana,elasticsearch" />
+</p>
 ---
 
 ## 🏆 GitHub Stats
